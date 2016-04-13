@@ -1,0 +1,28 @@
+name: tonydemartile.com
+favicon: null
+layout_spectrum: 0.6892304008360952
+typography_spectrum: 0.835328936111182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.13809820753522217
+  lightness: 0.029316896572709084
+  saturation: 0.5357742616906762
+  rhythmicContrast: 0.8798849114682525
+purpose: []
